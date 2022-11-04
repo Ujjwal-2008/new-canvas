@@ -1,0 +1,13 @@
+body{
+    background-image:url(https://images.unsplash.com/photo-1513708929605-6dd0e1b081bd?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2NTM0NjIzNDc&ixlib=rb-1.2.1&q=80);
+    background-size: cover;
+      background-attachment:fixed;
+    
+  }
+  
+  #myCanvas{
+
+    border: ridge;
+    border: 20px;
+    border: cyan;
+  }
